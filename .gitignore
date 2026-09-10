@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+bot.log
+*.log
+*_state.json
+telegram_config.json
+.env
